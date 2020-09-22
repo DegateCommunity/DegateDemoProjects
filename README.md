@@ -1,4 +1,4 @@
-![DegateBanner](degate.png)
+[![DegateBanner](degate.png)](https://github.com/DegateCommunity)
 
 <p align="center">
     <a href="https://gitter.im/DegateCommunity/Degate" alt="Gitter">
